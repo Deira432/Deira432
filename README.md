@@ -6,6 +6,7 @@
 <!-- <img align="right" alt="Coding" width="400" src ="https://giffiles.alphacoders.com/732/732.gif"> -->
 
 <br>
+
 - 👩‍💻 Currently working as a **Software Developer at Syncfusion**
   
 - 💻 Strong focus on **Web Development**, **Python based coding** and **DSA**
