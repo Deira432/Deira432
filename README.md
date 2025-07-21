@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Deira</h1>
 <h3 align="center">Software Developer | Web Development | Building Scalable, Real-World Solutions</h3>
-<img align="right" alt="Coding" width="400" src ="[[https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif](https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F732&psig=AOvVaw1zwT0yBu49RrR8142WFTEv&ust=1753156673724000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj2h-uHzY4DFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="400" src ="https://giffiles.alphacoders.com/732/732.gif">
 
 - 👩‍💻 Currently working as a **Software Developer at Syncfusion**
   
