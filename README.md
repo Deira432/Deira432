@@ -2,18 +2,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Deira</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Software Developer | Web Development | Building Scalable, Real-World Solutions</h3>
 <img align="right" alt="Coding" width="400" src ="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
-- 🌱 I’m currently learning **c#**
-
-- 🤝 I’m looking for help with **New project Ideas**
-
-- 💬 Ask me about **python, javascript, Anime**
-
-- 📫 How to reach me **deirarajrb@gmail.com**
-
-- ⚡ Fun fact **Pew pew pew pew pew**
+- 👩‍💻 Currently working as a **Software Developer at Syncfusion**
+  
+- 💻 Strong focus on **Web Development**, **Python based coding** and **DSA**
+  
+- 🧠 Passionate about clean code, real-world problem solving, and growth
+  
+- 📫 Reach me at **deirarajrb@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +27,11 @@
 
 <details>
  <summary><h3>👨‍💻 Dee's Coding Journey </h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world. My journey as a software developer is driven by a relentless passion for building and creating. I relish solving complex problems. Whether it's optimizing algorithms for efficiency, debugging tricky issues, or architecting scalable systems, I see challenges as opportunities to learn and grow. I hold a Bachelor's degree in Computer Science Engineering, which has been the cornerstone of my journey into the fascinating world of technology. Throughout my academic years, I delved deep into the theoretical aspects of computer science, honing my problem-solving skills, and gaining a solid understanding of algorithms, data structures, and software architecture.  I'm committed to continuous learning and staying updated with the latest trends, tools, and best practices in software development. Learning new languages, frameworks, and paradigms excites me. I also love watching Anime and playing Chess.
+  I started my coding journey as a curious computer science student, passionate about understanding how technology shapes the world. As a software developer, I thrive on solving complex problems — from optimizing algorithms to architecting scalable systems. 
+
+  Holding a Bachelor's degree in Computer Science Engineering, I have a solid foundation in algorithms, data structures, and software architecture. I’m committed to continuous learning, staying updated with industry trends, and expanding my skills in languages and frameworks. 
+
+  Outside coding, I enjoy anime and reading books — keeping my creativity and curiosity alive.
 </details> 
 
 ---
