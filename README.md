@@ -3,7 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Deira</h1>
 <h3 align="center">Software Developer | Web Development | Building Scalable, Real-World Solutions</h3>
-<img align="right" alt="Coding" width="400" src ="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src ="https://giffiles.alphacoders.com/732/732.gif"> -->
+
+<br>
 
 - 👩‍💻 Currently working as a **Software Developer at Syncfusion**
   
@@ -35,12 +37,11 @@
 </details> 
 
 ---
-<h3 align="left">Support:</h3>
+<!-- <h3 align="left">Support:</h3> 
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/Deiraraj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/Deiraraj" /></a></p><br><br>
 <br>
 <p><img align="centert" src="https://github-readme-stats.vercel.app/api/top-langs?username=deira432&show_icons=true&locale=en&layout=compact" alt="deira432" /></p>
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deira432&" alt="deira432" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deira432&" alt="deira432" /></p> -->
 
 
